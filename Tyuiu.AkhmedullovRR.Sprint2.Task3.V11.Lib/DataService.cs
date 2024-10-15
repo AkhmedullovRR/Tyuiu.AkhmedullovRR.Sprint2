@@ -21,7 +21,7 @@ namespace Tyuiu.AkhmedullovRR.Sprint2.Task3.V11.Lib
             if (x < -15)
                 y = x + 10 * x - 1 / x; 
 
-            return y;
+            return (Math.Round(y, 3));
         }
     }
 }
