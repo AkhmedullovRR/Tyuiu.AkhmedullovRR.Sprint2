@@ -25,7 +25,7 @@ namespace Tyuiu.AkhmedullovRR.Sprint2.Task3.V29.Lib
             }
             return Math.Round(res, 3);
 
-
+             
         }
     }
 }
