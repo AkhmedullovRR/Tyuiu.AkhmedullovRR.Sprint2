@@ -52,4 +52,4 @@ namespace Tyuiu.AkhmedullovRR.Sprint2.Task1.V25
             Console.ReadLine();
         }
     }
-}  
+}   
